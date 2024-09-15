@@ -1,5 +1,7 @@
 # Learn CSS by Building a Set of Colored Markers
 
+![image](https://github.com/user-attachments/assets/f2d74e58-48c4-448b-af61-3cdd6eff887d)
+
 This project is part of the **FreeCodeCamp** curriculum, where you will learn how to style and design a set of **colored markers** using **CSS**.
 
 [Learn CSS by Building a Set of Colored Markers](https://freecodecamp-responsive-web-design.github.io/learn-css-by-building-a-set-of-colored-markers/)
