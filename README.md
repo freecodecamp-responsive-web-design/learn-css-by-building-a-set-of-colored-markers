@@ -2,6 +2,8 @@
 
 This project is part of the **FreeCodeCamp** curriculum, where you will learn how to style and design a set of **colored markers** using **CSS**.
 
+[Learn CSS by Building a Set of Colored Markers](https://freecodecamp-responsive-web-design.github.io/learn-css-by-building-a-set-of-colored-markers/)
+
 ## In this project, you will:
 - Explore the use of **CSS properties** to create different shapes and colors.
 - Learn how to manipulate elements using **box model** concepts like **padding**, **margin**, and **border**.
